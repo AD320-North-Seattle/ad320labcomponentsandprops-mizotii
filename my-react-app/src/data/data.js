@@ -1,5 +1,9 @@
 export const recipes = [
     {
+        source: {
+            text: "Tuna-Mayo Pasta",
+            url: "https://oceans-nadia.com/user/748473/recipe/445845"
+        },
         title: "Tuna-Mayo Pasta",
         time: 15,
         serves: 1,
@@ -46,6 +50,10 @@ export const recipes = [
         ],
     },
     {
+        source: {
+            text: "Fried Mashed Potato Thing",
+            url: "https://x.com/iwasakifarm/status/1972112061888184645"
+        },
         title: "Fried Mashed Potato Thing",
         time: null,
         serves: 1,
@@ -68,6 +76,10 @@ export const recipes = [
         ],
     },
     {
+        source: {
+            text: "Oil-less Kara-age",
+            url: "https://delishkitchen.tv/recipes/536093722987725154"
+        },
         title: "Oil-less Kara-age",
         time: 30,
         serves: 1,
